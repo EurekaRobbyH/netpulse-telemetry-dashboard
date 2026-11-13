@@ -11,6 +11,35 @@ A production-grade **telecommunication infrastructure observability and SLA avai
 
 ---
 
+## 📸 Visual Showcase & Dashboard Previews
+
+### 🖥️ 1. Server Infrastructure Observability
+> High-density 24-hour telemetry tracking across **CPU Load, RAM Consumption, Disk Allocation, and Disk I/O Throughput** with interactive cluster node filtering, top-consumer ranking, and peak threshold status cards.
+
+<p align="center">
+  <img src="docs/images/server-observability.png" alt="Server Infrastructure Observability Dashboard" width="100%" />
+</p>
+
+---
+
+### 🛡️ 2. SLA Availability & Period-over-Period Delta Ledger
+> Multi-granularity availability tracking across **Daily, Weekly, and Monthly** intervals with dual-stream monitoring (**Southbound & Northbound**) and real-time period-over-period delta audits ($H - (H-1)$).
+
+<p align="center">
+  <img src="docs/images/sla-availability.png" alt="SLA Availability and Delta Ledger" width="100%" />
+</p>
+
+---
+
+### 👥 3. User Telemetry & Access Auditing
+> Trajectory tracking of 14-day login volume, busy-hour activity peaks, and distribution across core observability modules.
+
+<p align="center">
+  <img src="docs/images/user-telemetry.png" alt="User Telemetry and Access Auditing" width="100%" />
+</p>
+
+---
+
 ## 🌟 Key Features
 
 ### 1. 🖥️ Server Infrastructure Observability
