@@ -128,11 +128,11 @@ export const USER_ACTIVITY_DAYS: UserActivityMetric[] = Array.from({ length: 14 
 });
 
 export const USER_RANKINGS: UserRankingItem[] = [
-  { id: '1', label: 'RAN Observability & Telemetry', category: 'module', count: 4820, percentage: 38.5 },
-  { id: '2', label: 'SLA Availability Monitoring', category: 'module', count: 3240, percentage: 25.9 },
-  { id: '3', label: 'Server Performance Metrics', category: 'module', count: 2190, percentage: 17.5 },
-  { id: '4', label: 'Report XLSX/CSV Export', category: 'module', count: 1420, percentage: 11.3 },
-  { id: '5', label: 'User Auditing & Logs', category: 'module', count: 850, percentage: 6.8 },
+  { id: '1', label: 'Server Analytics View', category: 'module', count: 4820, percentage: 38.5 },
+  { id: '2', label: 'SLA Availability Ledger', category: 'module', count: 3240, percentage: 25.9 },
+  { id: '3', label: 'Infrastructure Visualizer', category: 'module', count: 2190, percentage: 17.5 },
+  { id: '4', label: 'Data Export Manager (XLSX/CSV)', category: 'module', count: 1420, percentage: 11.3 },
+  { id: '5', label: 'User Auditing & Telemetry', category: 'module', count: 850, percentage: 6.8 },
 
   { id: '6', label: 'Dashboard Query & Filter', category: 'activity', count: 7210, percentage: 41.2 },
   { id: '7', label: 'Export Telemetry Workbooks', category: 'activity', count: 3950, percentage: 22.5 },

@@ -77,7 +77,7 @@ export const UserAnalyticsCard: React.FC = () => {
             <span>Top Active Module</span>
             <Flame className="w-4 h-4 text-rose-400" />
           </div>
-          <div className="text-sm font-bold text-white mt-2 truncate">RAN Observability & Telemetry</div>
+          <div className="text-sm font-bold text-white mt-2 truncate">Server Analytics View</div>
           <span className="text-[11px] text-emerald-400">38.5% total platform traffic</span>
         </div>
       </div>

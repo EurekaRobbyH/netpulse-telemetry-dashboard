@@ -56,7 +56,7 @@ A production-grade **telecommunication infrastructure observability and SLA avai
 
 ### 3. 👥 User Telemetry & Access Auditing
 - **Traffic Tracking:** 14-day login frequency trajectory with peak busy-hour identification.
-- **Module Distribution:** Usage analytics across top platform features (Observability, SLA monitoring, Report exports).
+- **Module Distribution:** Usage analytics across top platform views (*Server Analytics View*, *SLA Availability Ledger*, *Data Export Manager*).
 
 ### 4. 📊 Multi-Format Client-Side Data Export
 - **Full Excel (`.xlsx`) Workbooks:** Generated in-memory via SheetJS with multiple organized tabs (*Hourly Telemetry*, *Top Consumers*, *Peak Thresholds*, *SLA Availability*).
